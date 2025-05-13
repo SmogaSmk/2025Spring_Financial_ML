@@ -1,0 +1,4 @@
+SecurityID [证券ID] - null
+TradingDate [交易日期] - null
+Symbol [股票代码] - null
+FwardClosePrice [收盘价（前复权）] - null
