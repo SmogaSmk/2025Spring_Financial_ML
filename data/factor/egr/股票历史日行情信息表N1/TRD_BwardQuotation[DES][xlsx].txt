@@ -1,0 +1,3 @@
+TradingDate [交易日期] - 以YYYY-MM-DD表示。
+Symbol [证券代码] - null
+TotalShare [总股本] - null

@@ -1,0 +1,6 @@
+UpdateTimes [更新次数] - 数据更新次数
+SgnYear [统计年度] - YYYY
+CountryCode [国家代码] - ISO国家区域3位英文代码
+Cntrnm [国家名称] - 
+UpdateDate [更新日期] - 数据入库更新时间
+CPI [消费者价格指数] - 
